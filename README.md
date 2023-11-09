@@ -3,6 +3,8 @@
 ## Description
 This project focuses on predicting the quality of red wine using various machine learning algorithms for regression analysis, data visualizations, and data analysis. The dataset comprises physicochemical and sensory variables related to red and white variants of the Portuguese "Vinho Verde" wine.
 
+<img src="https://miro.medium.com/max/875/1*2ayKmvVZCYaLPl-nmLLp5g.png" width="400">
+
 ## Context
 The datasets present a classification or regression task, considering physicochemical inputs and sensory outputs. Notably, the classes are ordered and imbalanced, making it challenging to predict wine quality accurately. Privacy and logistic constraints limit available information to physicochemical and sensory variables, omitting grape types, wine brand, and selling price.
 
